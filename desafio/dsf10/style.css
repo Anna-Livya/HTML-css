@@ -1,0 +1,67 @@
+@charset "URL";
+
+body{
+    background-image: linear-gradient(to right, rgb(219, 255, 202));
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: white;
+    width: 1000px;
+    border-radius: 20px;
+padding: 10px;
+margin: auto;
+}
+
+ header{
+   background-image: linear-gradient( green, rgba(0, 0, 0, 0.849));
+    color: white;
+    text-align: center;
+    padding: 20px 30px 20px;
+   font-size: 20px;
+   font-weight: 1000;
+   box-shadow: rgb(17, 17, 17);
+  
+ }
+
+ nav{
+ text-align-last: left;
+ color: rgb(130, 219, 130);
+ font-size: 16px;
+ }
+
+ iframe{
+     text-align:center ;
+     background-color: hsla(120, 46%, 26%, 0.522);
+ }
+
+ strong{
+    background-color: #3a803a;
+    color: rgb(130, 219, 130); 
+ }
+
+ h3{
+background-color: hsla(120, 46%, 26%, 0.522);
+color: #3a803a;
+text-align: center;
+font-size: 20px;
+text-align-last: left;
+ }
+
+ p{
+    text-align: center;
+    font-size: 15px;
+ }
+ 
+
+ul{
+    text-decoration: underline;
+}
+
+footer{
+    background-color: hsla(120, 46%, 26%, 0.522);
+    width: 1000px;
+     border-radius: 20px;
+    padding: 5px;
+    margin: auto;
+}
